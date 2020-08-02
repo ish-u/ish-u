@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# https://ish-u.github.io/
 ## https://www.instagram.com/a._.nmol/
 ### 15485863
