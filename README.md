@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## https://www.instagram.com/a._.nmol/
 ### 15485863
