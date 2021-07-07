@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 -->
 
 ###### 15485863
+
+Hi, fellow internet user. Hope you are having a great day.
+
 _Anywhere can be paradise as long as you have the will to live. After all, you are alive, so you will always have the chance to be happy._
+
 ##  ![](https://komarev.com/ghpvc/?username=ish-u&&style=flat-square)
 
 
