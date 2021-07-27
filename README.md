@@ -14,10 +14,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###### 15485863
+<h3 align="center">Hi, I am Anmol. Your Average Soy Dev.</h3>
 
-_Anywhere can be paradise as long as you have the will to live. After all, you are alive, so you will always have the chance to be happy._
+<p align="center">
+  <img height="360" src="https://media1.tenor.com/images/e21dfbe054e5113da3f120de3a61688f/tenor.gif"></img>
+</p>
 
-##  ![](https://komarev.com/ghpvc/?username=ish-u&&style=flat-square)
+<h4 align="center">
+  <em>Anywhere can be paradise as long as you have the will to live.
+      <br>
+      After all, you are alive, so you will always have the chance to be happy.
+  </em>
+</h4>
+
+
+<p align="center">
+ <a href="http://instagram.com/a._.nmol">instagram</a>
+ <a href="https://www.linkedin.com/in/anmolgupta0/">linkedin</a>
+ <a href="https://leetcode.com/ish-u/">leetcode</a>
+ <a href="https://www.reddit.com/user/anmol_gupta_0">reddit</a>
+ <a href="https://open.spotify.com/user/6sgvw84ghr0r9oegtq48dszqu">spotify</a>
+ <a href="https://www.twitch.tv/lolanmol">twitch</a>
+ <a href="https://twitter.com/UserNo0001">twitter</a>
+ <a href="https://www.youtube.com/channel/UCM5LZDjDd2icCkiyvhoqBGg">youtube</a>
+ <a href="https://ish-u.github.io/">website</a>
+</p>
+
+
+
+<h5 align="center">
+  <img src="https://komarev.com/ghpvc/?username=ish-u&&style=flat-square"></img>
+  <br><br>
+  15485863
+</h5>
+
+
 
 
