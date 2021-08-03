@@ -45,8 +45,11 @@ Here are some ideas to get you started:
 <h5 align="center">
   <img src="https://komarev.com/ghpvc/?username=ish-u&&style=flat-square"></img>
   <br><br>
+  <a href="https://spotify-readme.ishu2.repl.co/nowPlaying/url">Now Playing</a>
+  <br><br>
   15485863
 </h5>
+
 
 
 
