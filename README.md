@@ -21,9 +21,12 @@ Here are some ideas to get you started:
 </p>
 
 <h4 align="center">
-  <em>Anywhere can be paradise as long as you have the will to live.
+  <em>
+      Anywhere can be paradise as long as you have the will to live.
       <br>
       After all, you are alive, so you will always have the chance to be happy.
+      <br>
+      As long as the Sun, the Moon, and the Earth exist, everything will be all right.
   </em>
 </h4>
 
