@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Hi, I am Anmol. Your Average Soy Dev.</h3>
+<h3 align="center">Hi, I am Anmol.</h3>
 
-<p align="center">
-  <img height="360" src="https://media1.tenor.com/images/e21dfbe054e5113da3f120de3a61688f/tenor.gif"></img>
-</p>
+<!-- <p align="center">
+<!--   <img height="360" src="https://media1.tenor.com/images/e21dfbe054e5113da3f120de3a61688f/tenor.gif"></img>
+</p> -->
 
 <h4 align="center">
   <em>
@@ -32,22 +32,21 @@ Here are some ideas to get you started:
 
 
 <p align="center">
- <a href="http://instagram.com/a._.nmol">instagram</a>
+ <a href="https://angel.co/u/anmol-gupta-102">angellist</a>
+ <a href="https://www.instagram.com/user_no_01/">instagram</a>
  <a href="https://www.linkedin.com/in/anmolgupta0/">linkedin</a>
  <a href="https://leetcode.com/ish-u/">leetcode</a>
  <a href="https://www.reddit.com/user/anmol_gupta_0">reddit</a>
  <a href="https://open.spotify.com/user/6sgvw84ghr0r9oegtq48dszqu">spotify</a>
- <a href="https://www.twitch.tv/lolanmol">twitch</a>
+ <a href="https://www.twitch.tv/an60221023">twitch</a>
  <a href="https://twitter.com/UserNo0001">twitter</a>
  <a href="https://www.youtube.com/channel/UCM5LZDjDd2icCkiyvhoqBGg">youtube</a>
- <a href="https://ish-u.github.io/">website</a>
+ <a href="https://anmol.ninja/">website</a>
 </p>
 
 
 
 <h5 align="center">
-  <img src="https://komarev.com/ghpvc/?username=ish-u&&style=flat-square"></img>
-  <br><br>
   <a href="https://spotify-readme.ishu2.repl.co/nowPlaying/url">Now Playing</a>
   <br><br>
   15485863
