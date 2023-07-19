@@ -33,13 +33,12 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a href="https://angel.co/u/anmol-gupta-102">angellist</a>
- <a href="https://www.instagram.com/user_no_01/">instagram</a>
+ <a href="https://www.instagram.com/anmol_dot_ninja/">instagram</a>
  <a href="https://www.linkedin.com/in/anmolgupta0/">linkedin</a>
  <a href="https://leetcode.com/ish-u/">leetcode</a>
- <a href="https://www.reddit.com/user/anmol_gupta_0">reddit</a>
  <a href="https://open.spotify.com/user/6sgvw84ghr0r9oegtq48dszqu">spotify</a>
  <a href="https://www.twitch.tv/an60221023">twitch</a>
- <a href="https://twitter.com/UserNo0001">twitter</a>
+ <a href="https://twitter.com/anmol_dot_ninja">twitter</a>
  <a href="https://www.youtube.com/channel/UCM5LZDjDd2icCkiyvhoqBGg">youtube</a>
  <a href="https://anmol.ninja/">website</a>
 </p>
