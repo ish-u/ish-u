@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">Hi, I am Anmol.</h3>
-
-<!-- <p align="center">
-<!--   <img height="360" src="https://media1.tenor.com/images/e21dfbe054e5113da3f120de3a61688f/tenor.gif"></img>
+<!--  <p align="center">
+   <img height="360" src="https://media1.tenor.com/images/e21dfbe054e5113da3f120de3a61688f/tenor.gif"></img>
 </p> -->
 
 <h4 align="center">
@@ -32,15 +31,10 @@ Here are some ideas to get you started:
 
 
 <p align="center">
- <a href="https://angel.co/u/anmol-gupta-102">angellist</a>
- <a href="https://www.instagram.com/anmol_dot_ninja/">instagram</a>
- <a href="https://www.linkedin.com/in/anmolgupta0/">linkedin</a>
- <a href="https://leetcode.com/ish-u/">leetcode</a>
- <a href="https://open.spotify.com/user/6sgvw84ghr0r9oegtq48dszqu">spotify</a>
- <a href="https://www.twitch.tv/an60221023">twitch</a>
- <a href="https://twitter.com/anmol_dot_ninja">twitter</a>
- <a href="https://www.youtube.com/channel/UCM5LZDjDd2icCkiyvhoqBGg">youtube</a>
  <a href="https://anmol.ninja/">website</a>
+ <a href="https://www.instagram.com/anmol_dot_ninja/">instagram</a>
+ <a href="https://twitter.com/anmol_dot_ninja">twitter</a>  
+ <a href="https://www.linkedin.com/in/anmolgupta0/">linkedin</a>
 </p>
 
 
