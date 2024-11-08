@@ -35,10 +35,11 @@ Here are some ideas to get you started:
  <a href="https://www.linkedin.com/in/anmolgupta0/">linkedin</a>
 </p>
 
-
-
 <h5 align="center">
-  15485863
+   <a href="https://currently-playing.up.railway.app/currently-playing-page">Currerntly Playing</a>
+   <br />
+   <br />
+   15485863
 </h5>
 
 
