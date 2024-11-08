@@ -21,11 +21,9 @@ Here are some ideas to get you started:
 
 <h4 align="center">
   <em>
-      Anywhere can be paradise as long as you have the will to live.
-      <br>
-      After all, you are alive, so you will always have the chance to be happy.
-      <br>
-      As long as the Sun, the Moon, and the Earth exist, everything will be all right.
+   Ten decisions shape your life
+   <br/>
+   You'll be aware of five about
   </em>
 </h4>
 
@@ -40,8 +38,6 @@ Here are some ideas to get you started:
 
 
 <h5 align="center">
-  <a href="https://spotify-readme.ishu2.repl.co/nowPlaying/url">Now Playing</a>
-  <br><br>
   15485863
 </h5>
 
