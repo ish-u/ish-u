@@ -33,6 +33,7 @@ Here are some ideas to get you started:
  <a href="https://www.instagram.com/anmol_dot_ninja/">instagram</a>
  <a href="https://twitter.com/anmol_dot_ninja">twitter</a>  
  <a href="https://www.linkedin.com/in/anmolgupta0/">linkedin</a>
+ <a href="https://logsbyanmol.substack.com/">substack</a>
 </p>
 
 <h5 align="center">
