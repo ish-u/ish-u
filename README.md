@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </p>
 
 <h5 align="center">
-   <a href="https://currently-playing.up.railway.app/currently-playing-page">Currerntly Playing</a>
+   <a href="https://currently-playing.up.railway.app">Currerntly Playing</a>
    <br />
    <br />
    15485863
