@@ -19,13 +19,13 @@ Here are some ideas to get you started:
    <img height="360" src="https://media1.tenor.com/images/e21dfbe054e5113da3f120de3a61688f/tenor.gif"></img>
 </p> -->
 
-<h4 align="center">
+<!-- <h4 align="center">
   <em>
    Ten decisions shape your life
    <br/>
    You'll be aware of five about
   </em>
-</h4>
+</h4> -->
 
 
 <p align="center">
